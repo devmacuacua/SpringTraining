@@ -15,9 +15,14 @@ public class TestInputOutputStreamIdentifyComments {
 		InputStreamReader isr = new InputStreamReader(is);
 		BufferedReader br = new BufferedReader(isr);
 		String s = br.readLine();
+		
 		while (s != null) {
 			if (s.startsWith("//") || s.startsWith("/*")) {
 				System.out.println("s = " + s);
+			} else if (s.isBlank()) {
+				System.out.println("iS Blank");
+			} else if (s.isEmpty()) {
+				System.out.println("is empty");
 			} else {
 				i++;
 			}
