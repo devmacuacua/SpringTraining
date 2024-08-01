@@ -1,0 +1,54 @@
+//comments
+High-Level Languages
+Python
+Java
+C++
+C#
+JavaScript
+/*Another COmment*/
+TypeScript
+Ruby
+PHP
+Swift
+Kotlin
+Objective-C
+R
+MATLAB
+Perl
+Go
+Low-Level Languages
+C
+Assembly Language
+Rust
+Scripting Languages
+JavaScript
+Python
+Ruby
+Perl
+Shell scripting (Bash)
+Functional Programming Languages
+Haskell
+Erlang
+Scala
+Elixir
+Lisp
+Web Development Languages
+HTML (Hypertext Markup Language)
+CSS (Cascading Style Sheets)
+JavaScript
+PHP
+Ruby (Ruby on Rails)
+Python (Django, Flask)
+Database Query Languages
+SQL (Structured Query Language)
+PL/SQL (Procedural Language/SQL)
+T-SQL (Transact-SQL)
+Data Science and Statistical Languages
+R
+Python
+Julia
+Domain-Specific Languages
+VHDL (VHSIC Hardware Description Language)
+Verilog
+MATLAB
+RPG (Report Program Generator)
